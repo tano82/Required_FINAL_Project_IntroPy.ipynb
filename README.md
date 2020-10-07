@@ -1,1 +1,1 @@
-# Spoil alert!
+# Spoiler alert!
