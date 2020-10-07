@@ -2,13 +2,13 @@
 input until the user quits and then sums the integers and prints a "report"."""
 
 def adding_report(report="T"):
-    """"A" used as the argument to adding_report() results in printing of all of the input integers and the total
+    """"A" used as the argument results in printing of all of the input integers and the total
 "T" used as the argument results in printing only the total."""
     total = 0
     item = 0
     item_list = ""
 
-    print('Report Types include All Items ("A") or Total Only ("T")')
+    print('Report Types include All Items ("A") or Total Only ("T") ')
     report = input('Choose report Type ("A") or ("T") ')
 
     while True:
